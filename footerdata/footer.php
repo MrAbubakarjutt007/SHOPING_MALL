@@ -22,7 +22,7 @@ include ("./connection.php");
     <section class="mt-2">
         <div class="container-fluid" id="greadientdata">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-4">
+                <div class="col-lg-4 col-md-4 col-12">
                 <div class="listdata mt-4">
                   <ul class="uidata">
                    <li><a href="#" class="lidata"><i class="fa-brands fa-twitter"></i>shoppinginfo on twitter</a></li>
@@ -32,7 +32,7 @@ include ("./connection.php");
                   </ul>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-4">
+                <div class="col-lg-4 col-md-4 col-12">
                 <div class="listdata mt-2">
                   <ul class="uidata">
                    <li><h4 class="lidata"><i class="fa-solid fa-location-dot"></i>FASLABAD,GOJRA,<br>TOBA, LAHORE</h4></li>
@@ -42,7 +42,7 @@ include ("./connection.php");
                   </ul>
                   </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-4">
+                <div class="col-lg-4 col-md-4 col-12">
                 <div class="listdata mt-4">
                   <ul class="uidata">
                     <li>

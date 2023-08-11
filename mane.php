@@ -123,21 +123,21 @@ session_start();
                       <h1 class="text-center mt-2">SHOPPING MALL<span class="badge bg-danger">VIDEOS</span></h1>
                       <br>  
                     <div class="owl-carousel owl-theme">
-            <div class="item-video" data-merge="1">
-            <iframe src="https://www.youtube.com/embed/0nWCTIKGCmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <div class="item-video" data-merge="1">
-            <iframe  src="https://www.youtube.com/embed/hQvzvcEIA8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <div class="item-video" data-merge="1">
-            <iframe  src="https://www.youtube.com/embed/u3gyr1Ml-AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <div class="item-video" data-merge="1">
-            <iframe src="https://www.youtube.com/embed/mQHPHGAWp6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
-            <div class="item-video" data-merge="1">
-            <iframe src="https://www.youtube.com/embed/7m16dFI1AF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            </div>
+                        <div class="item-video" data-merge="1">
+                        <iframe src="https://www.youtube.com/embed/0nWCTIKGCmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                        <div class="item-video" data-merge="1">
+                        <iframe  src="https://www.youtube.com/embed/hQvzvcEIA8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                        <div class="item-video" data-merge="1">
+                        <iframe  src="https://www.youtube.com/embed/u3gyr1Ml-AU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                        <div class="item-video" data-merge="1">
+                        <iframe src="https://www.youtube.com/embed/mQHPHGAWp6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                        <div class="item-video" data-merge="1">
+                        <iframe src="https://www.youtube.com/embed/7m16dFI1AF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
         </div>
         </div>
         </div>
@@ -157,7 +157,7 @@ session_start();
 <section>
     <div class="containter-fluid">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-4">
+            <div class="col-lg-4 col-md-4 col-12">
                 <div class="divdata">   
                 <h1><i class="fa-sharp fa-solid fa-bag-shopping" id="font"></i></h1>
                 <h4>Going to the Supermarket:</h4>
@@ -166,7 +166,7 @@ session_start();
                     </p>
                 </div>    
             </div>
-            <div class="col-lg-4 col-md-4 col-4">
+            <div class="col-lg-4 col-md-4 col-12">
                 <div class="divdata">
                    <h1><i class="fa-sharp fa-solid fa-cart-shopping" id="font"></i></h1>
                    <h4>ESL Shopping Reading:</h4>
@@ -176,7 +176,7 @@ session_start();
 
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-4">
+            <div class="col-lg-4 col-md-4 col-12">
                 <div class="divdata">
                   <h1><i class="fa-solid fa-handshake" id="font"></i></h1>
                   <h4>ESL Shopping Reading:</h4>

@@ -22,13 +22,13 @@ else
 <body>
     <div class="container-fluid"  id="colordata">
         <div class="row">
-            <div class="col-lg-3 col-md-3 col-3">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div class="flag d-flex">
                     <img src="logosimages/headerlogopk.png" alt="headerlogopk" width="10%" class="logodata"><marquee class="mt-1" direction="right"  id="colorsceam"><i>BEST SHOPPINH MALL IN PAKISTAN</i></marquee>
                 </div>
    
             </div>
-            <div class="col-lg-6 col-md-6 col-6">
+            <div class="col-lg-6 col-md-6 col-12">
                     <div>
                     <form class="d-flex">
                     <button class="btn" type="submit"><i class="fa-sharp fa-solid fa-magnifying-glass"></i></button>
@@ -37,7 +37,7 @@ else
                     </div>          
                  
             </div>
-            <div class="col-lg-3 col-md-3 col-3">
+            <div class="col-lg-3 col-md-3 col-12">
                 <div>
                     <?php 
                     if(!$logindata){
