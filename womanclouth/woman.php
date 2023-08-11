@@ -15,7 +15,7 @@ session_start();
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>womanpage</title>
+    <title>WOMAN_CLOUTH</title>
     <link rel="stylesheet" href="womandata1.css">
     <link rel="stylesheet" href="../footerdata/footer.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
