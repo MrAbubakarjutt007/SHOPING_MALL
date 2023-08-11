@@ -1,0 +1,20 @@
+#nevcolor
+{
+    background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+}
+.dropdown-menu
+{
+  box-shadow: 2px 2px 2px 2px #ccc;
+  background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+}
+.dropdown-link
+{
+  color:black;
+  text-decoration:none;
+  font-size:16px;
+}
+.dropdown-link:hover
+{
+   color:white;
+   font-size:18px;
+}

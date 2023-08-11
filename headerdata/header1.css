@@ -1,0 +1,37 @@
+#colordata
+{
+    background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+}
+.logodata
+{
+    margin-left: 20px;
+    padding:2px;
+}
+@media only screen and(min-width:10%)and(max-width:100%){
+
+    .logodata
+    {
+        width:10%;     
+    }
+
+}
+#colorsceam
+{
+    color:white;
+}
+#colorsceam:hover
+{
+    color:brown;
+    font-size:20px;
+}
+.underline
+{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+    margin-left:30px;
+}
+.underline:hover
+{
+    color:brown;
+}

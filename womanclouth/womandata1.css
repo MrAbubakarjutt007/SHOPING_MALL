@@ -1,0 +1,19 @@
+@import "../nevheader/nevbardat.css";
+#backend
+{
+    background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+}
+.item1
+{
+   box-shadow:2px 2px 2px 2px #ccc;
+   margin:15px;
+}
+.spandata
+{
+    margin-left:2px;
+    color:brown ;
+}
+.btndata
+{
+   box-shadow:2px 2px 2px 2px #ccc;
+}

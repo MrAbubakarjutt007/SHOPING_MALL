@@ -1,0 +1,55 @@
+#greadientdata
+{
+    background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+}
+.listdata
+{
+   background-image:linear-gradient(to left, rgba(122, 186, 170,0.5),rgba(214, 96, 178,1));
+   box-shadow:3px 3px 3px 3px #ccc;
+   border-radius:6px;
+}
+.uidata
+{
+    list-style:none;
+    padding:2px;
+}
+.lidata
+{
+    text-decoration:none;
+    font-size:12px;
+    color:bisque;
+    margin-top:5px;
+}
+.lidata:hover
+{
+    text-decoration:none;
+    font-size:14px;
+    color:black;
+    text-shadow:1px 1px #cccc;
+    padding:0;
+}
+#lidata
+{
+    font-size:10px;
+    color:bisque;
+}
+#lidata:hover
+{
+    font-size:15px;
+    color:black;
+}
+.gmaildata
+{
+    text-decoration:none;
+    font-size:10px;
+    color:bisque;
+    margin-top:5px;  
+}
+.gmaildata:hover
+{
+    text-decoration:none;
+    font-size:10px;
+    color:black;
+    text-shadow:1px 1px #cccc;
+    padding:0;
+}
